@@ -1,0 +1,8 @@
+{
+  "name": "Zalia Africa — Value Chains Optimization",
+  "description": "Corporate agricultural consultancy empowering farms and agribusinesses globally with expert insights, sustainable farming practices, and technology integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
